@@ -1,0 +1,35 @@
+<Solution>
+  <Folder Name="/Atividades de aula/">
+    <Project Path="Atividades de aula/Aula classe e atributo/Aula classe e atributo.csproj" />
+    <Project Path="Atividades de aula/Aula função/Aula função.csproj" />
+    <Project Path="Atividades de aula/Aula While/Aula While.csproj" />
+    <Project Path="Atividades de aula/Aulas/Aulas.csproj" />
+    <Project Path="Atividades de aula/Aulas1/Aulas1.csproj" />
+    <Project Path="Atividades de aula/Correcao/Correcao.csproj" />
+    <Project Path="Atividades de aula/Dictonary/Dictonary.csproj" />
+    <Project Path="Atividades de aula/EX 03/EX 03.csproj" />
+    <Project Path="Atividades de aula/Ex02/Ex02.csproj" />
+    <Project Path="Atividades de aula/Ex04/Ex04.csproj" />
+    <Project Path="Atividades de aula/Exercicio01/Exercicio01.csproj" />
+    <Project Path="Atividades de aula/geometria/geometria.csproj" />
+    <Project Path="Atividades de aula/Lista/Lista.csproj" />
+    <Project Path="Atividades de aula/ManipularArquivo/ManipularArquivo.csproj" />
+    <Project Path="Atividades de aula/Struct e nullable/Struct e nullable.csproj" />
+    <Project Path="Atividades de aula/TratamentoDeErro/TratamentoDeErro.csproj" />
+  </Folder>
+  <Folder Name="/projetos/">
+    <Project Path="projetos/Banco/Banco.csproj" />
+    <Project Path="projetos/Contratos/Contratos.csproj" />
+    <Project Path="projetos/ControleEmpresa/ControleEmpresa.csproj" />
+    <Project Path="projetos/Cotacao do dolar/Cotacao do dolar.csproj" />
+    <Project Path="projetos/Empregrado/Empregrado.csproj" />
+    <Project Path="projetos/Escola/Escola.csproj" />
+    <Project Path="projetos/Hotel/Hotel.csproj" />
+    <Project Path="projetos/mercado/mercado.csproj" />
+    <Project Path="projetos/Paypal/Paypal.csproj" />
+    <Project Path="projetos/Pedidos/Pedidos.csproj" />
+    <Project Path="projetos/SaldoBancario/SaldoBancario.csproj" />
+    <Project Path="projetos/Saraiva2/Saraiva2.csproj" />
+    <Project Path="projetos/steam2/steam2.csproj" />
+  </Folder>
+</Solution>
