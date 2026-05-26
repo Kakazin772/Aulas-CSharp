@@ -13,6 +13,9 @@ namespace PortaoDoCareca.Entities
             Dano = dano;
         }
 
-
+        public override void UsarItem()
+        {
+            Console.WriteLine($"Você atacou com a arma {Name} e causou {Dano} de dano!");
+        }
     }
 }

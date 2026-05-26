@@ -32,4 +32,5 @@
     <Project Path="projetos/Saraiva2/Saraiva2.csproj" />
     <Project Path="projetos/steam2/steam2.csproj" />
   </Folder>
+  <Project Path="Projetos/PortaoDoCareca/PortaoDoCareca.csproj" Id="0c3499ec-f80b-43fb-9941-a5380ddc5820" />
 </Solution>
