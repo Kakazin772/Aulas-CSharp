@@ -16,6 +16,7 @@
     <Project Path="Atividades de aula/ManipularArquivo/ManipularArquivo.csproj" />
     <Project Path="Atividades de aula/Struct e nullable/Struct e nullable.csproj" />
     <Project Path="Atividades de aula/TratamentoDeErro/TratamentoDeErro.csproj" />
+    <Project Path="LinQ/LinQ.csproj" Id="9043e43b-de18-432f-82c2-d57d821d66b5" />
   </Folder>
   <Folder Name="/projetos/">
     <Project Path="projetos/Banco/Banco.csproj" />
@@ -28,9 +29,9 @@
     <Project Path="projetos/mercado/mercado.csproj" />
     <Project Path="projetos/Paypal/Paypal.csproj" />
     <Project Path="projetos/Pedidos/Pedidos.csproj" />
+    <Project Path="Projetos/PortaoDoCareca/PortaoDoCareca.csproj" Id="0c3499ec-f80b-43fb-9941-a5380ddc5820" />
     <Project Path="projetos/SaldoBancario/SaldoBancario.csproj" />
     <Project Path="projetos/Saraiva2/Saraiva2.csproj" />
     <Project Path="projetos/steam2/steam2.csproj" />
   </Folder>
-  <Project Path="Projetos/PortaoDoCareca/PortaoDoCareca.csproj" Id="0c3499ec-f80b-43fb-9941-a5380ddc5820" />
 </Solution>
